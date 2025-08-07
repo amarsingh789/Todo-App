@@ -5,19 +5,18 @@ This project is built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**
 
 ---
 
-## 📸 Preview
-
-![To-Do App Screenshot](screenshot.png)
-> *(Optional: Add a screenshot of your app UI)*
-
----
-
 ## 🚀 Features
 
 - ✅ Add new tasks  
 - 🗑️ Delete existing tasks  
 - 📱 Responsive layout using Bootstrap  
 - ⚡ Smooth UI interactions with JavaScript  
+
+---
+
+## 📸 Preview
+
+![To-Do App Screenshot](screenshot.png)
 
 ---
 
